@@ -20,7 +20,5 @@ Create React apps without create-react-app.
 * react-dom
 * webpack-cli
 * webpack-dev-server
-
-## Final structure 
-
-<img src="https://i.ibb.co/QKkr1n8/Captura-de-pantalla-2021-09-08-a-las-16-58-17.png" style="zoom: 67%;" />
+* css-loader
+* style-loader
