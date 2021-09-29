@@ -1,5 +1,5 @@
 {
-  "name": "cra-minimum",
+  "name": "cra-m",
   "version": "1.0.0",
   "description": "Set up a modern web app by running one command without using create-react-app.",
   "main": "src/index.js",
